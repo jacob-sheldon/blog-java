@@ -23,7 +23,7 @@ email: shizhiang1991@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal blog to share my experience in Java/Spring framework development. It will include some basic knowledge of Java, some tips and tricks, and some interesting topics in Java.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://java.codewithjacob.tech" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jacobsh29043979
 github_username:  jacob-sheldon
 
@@ -31,6 +31,12 @@ github_username:  jacob-sheldon
 theme: minima
 plugins:
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      permalink: /:title
 
 # Exclude from processing.
 # The following items will not be processed, by default.

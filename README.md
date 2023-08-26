@@ -1,1 +1,1 @@
-My personal blog to record my learn java journey.
+My personal blog to record my learn java
