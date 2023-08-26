@@ -3,6 +3,7 @@ layout: post
 title:  "Build a fundamental HTTP Server with a embedded Tomcat"
 date:   2023-06-29 19:03:07 +0800
 categories: Hand On
+permalink: build-a-fundamental-HTTP-server-with-embedded-tomcat
 ---
 
 # Build a fundamental HTTP Server with a embedded Tomcat
