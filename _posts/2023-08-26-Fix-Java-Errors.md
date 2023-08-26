@@ -3,7 +3,7 @@ layout: post
 title:  "Fix Java Exceptions"
 date:   2023-08-26 19:03:07 +0800
 categories: Hand On
-permalink: fix-java-errors
+# permalink: fix-java-errors
 ---
 # Fix Java Exceptions
 
